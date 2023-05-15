@@ -2,7 +2,7 @@
 <p align="center"> I'm Maciek.</p>
 <p align="center"> Nice to meet you!</p>
 <p align="center">
-<a href="https://www.freecodecamp.org/fccc2ff190b-9906-41fd-965e-dcf9c64b9d5f">Check my progress at freecodecamp.org</a></p>
+<a href="https://www.freecodecamp.org/fccc2ff190b-9906-41fd-965e-dcf9c64b9d5f">✨Check my progress at freecodecamp.org✨</a></p>
 <p align="center">__Feel free here!__</p>
 
 <!--
