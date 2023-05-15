@@ -3,7 +3,7 @@
 <p align="center"> Nice to meet you!</p>
 <p align="center">
 <a href="https://www.freecodecamp.org/fccc2ff190b-9906-41fd-965e-dcf9c64b9d5f">Check my progress at freecodecamp.org</a></p>
-<p align="center">Feel free here!</p>
+<p align="center">__Feel free here!__</p>
 
 <!--
 **7799043/7799043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
