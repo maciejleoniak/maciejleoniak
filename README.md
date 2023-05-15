@@ -1,4 +1,4 @@
-<p align="center"> Hi there 👋</p>
+<h2 align="center"> Hi there 👋</h2>
 <p align="center"> I'm Maciek.</p>
 <p align="center"> Nice to meet you!</p>
 <p align="center">
